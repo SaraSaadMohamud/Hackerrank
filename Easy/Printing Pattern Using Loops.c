@@ -18,7 +18,7 @@ int main(void)
 	fflush(stdin);
 	fflush(stdout);
 	scanf("%i",&Number);
-	printf("///////////////////////////////////////////\n");
+
 	for(int i=0 ; i<(Number*2-1) ; i++)
     {
         printf("%i ",Number);
